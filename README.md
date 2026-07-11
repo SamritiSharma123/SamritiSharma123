@@ -1,66 +1,91 @@
-<h1 align="center">Samriti Sharma</h1>
+<h1 align="center">Hi, I'm Samriti Sharma 👋</h1>
+
+<h3 align="center">
+Computer Science Engineering • Artificial Intelligence • Machine Learning • Full Stack Development
+</h3>
 
 <p align="center">
-Computer Science Engineering Student • Artificial Intelligence • Machine Learning • Full-Stack Web Development
-</p>
-
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ## About Me
 
-Computer Science Engineering student with a strong interest in Artificial Intelligence, Machine Learning, Data Structures & Algorithms, and Full-Stack Web Development. Completed a Major Certification in Artificial Intelligence from IIT Ropar (15 ABC Credits) and currently contributing to an AI research publication. Passionate about building scalable software and intelligent systems that solve real-world problems.
+Computer Science Engineering student passionate about **Artificial Intelligence**, **Machine Learning**, **Natural Language Processing**, **Full Stack Development**, and **Data Structures & Algorithms**.
+
+- Currently working on an **AI Research Publication**
+- IIT Ropar Certified in Artificial Intelligence *(15 ABC Credits)*
+- Interested in **LLMs, Generative AI, Explainable AI, and AI Safety**
+- Building intelligent systems and scalable web applications
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-**Languages**
+### Languages
 
-`C++` `C` `Python` `Java` `JavaScript`
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript"/>
+</p>
 
-**Web Development**
+### AI / ML
 
-`HTML` `CSS` `Bootstrap` `React` `Node.js` `Express.js`
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
 
-**Artificial Intelligence**
+### Web Development
 
-`Machine Learning` `Deep Learning` `NLP` `TensorFlow` `PyTorch`
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express"/>
+</p>
 
-**Databases**
+### Database & Tools
 
-`MySQL` `MongoDB`
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,figma"/>
+</p>
 
-**Tools**
+---
 
-`Git` `GitHub` `VS Code` `Figma`
+## Technical Interests
+
+![](https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge)
+![](https://img.shields.io/badge/Machine%20Learning-00599C?style=for-the-badge)
+![](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
+![](https://img.shields.io/badge/Natural%20Language%20Processing-2E8B57?style=for-the-badge)
+![](https://img.shields.io/badge/Generative%20AI-6A5ACD?style=for-the-badge)
+![](https://img.shields.io/badge/LLMs-DC143C?style=for-the-badge)
+![](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-006400?style=for-the-badge)
+![](https://img.shields.io/badge/Full%20Stack%20Development-0A66C2?style=for-the-badge)
 
 ---
 
 ## Featured Projects
 
-### Hallucination Detection System
-AI-based system for detecting hallucinations in Large Language Models using Machine Learning and Natural Language Processing.
+- **Hallucination Detection System**
+  - AI-powered hallucination detection using Machine Learning & NLP.
 
-### Law Chambers Website
-Designed and developed a responsive professional website for Nidhi Sharma Law Chambers.
+- **Law Chambers Website**
+  - Professional website developed for Nidhi Sharma Law Chambers.
 
-### Dr. Amit Hospital Website
-Developed a modern healthcare website with responsive design and intuitive user experience.
+- **Hospital Management Website**
+  - Responsive healthcare platform with modern UI/UX.
 
-### Quiz Management System
-Developed  for efficient quiz creation and evaluation.
+- **Quiz Management System**
+  - Developed under the guidance of **Dr. Sarabjeet Singh**.
 
 ---
 
 ## Research
 
-- Ongoing AI Research Publication
-- Exploring Large Language Models, Explainable AI, and Generative AI
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- Hallucination Detection
+- Explainable AI
+- Generative AI
 
 ---
 
@@ -68,10 +93,10 @@ Developed  for efficient quiz creation and evaluation.
 
 **Major Certification in Artificial Intelligence**
 
-Indian Institute of Technology Ropar
+**Indian Institute of Technology Ropar**
 
-15 Academic Bank of Credits (ABC)
+**15 Academic Bank of Credits (ABC Credits)**
 
 ---
 
-*"Always learning. Always building."*
+> *"Building intelligent systems through research, engineering, and continuous learning."*
