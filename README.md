@@ -1,115 +1,77 @@
-<h1 align="center">Hi 👋, I'm Samriti Sharma</h1>
-
-<h3 align="center">
-Computer Science Engineering Student • AI & Machine Learning Enthusiast • Full-Stack Web Developer
-</h3>
+<h1 align="center">Samriti Sharma</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Full+Stack+Web+Development;Data+Structures+%26+Algorithms;AI+Research+Enthusiast" />
+Computer Science Engineering Student • Artificial Intelligence • Machine Learning • Full-Stack Web Development
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+<a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
 ---
 
-# 💜 About Me
+## About Me
 
-🎓 **BE Computer Science Engineering Student**
-
-🤖 Passionate about **Artificial Intelligence, Machine Learning & NLP**
-
-💻 Full-Stack Web Developer
-
-📚 Strong in **Data Structures & Algorithms**
-
-🎖️ Completed **Major Certification in Artificial Intelligence** from **IIT Ropar** *(15 ABC Credits)*
-
-📄 Currently working on an **AI Research Publication**
-
-🚀 Passionate about building intelligent systems that solve real-world problems.
+Computer Science Engineering student with a strong interest in Artificial Intelligence, Machine Learning, Data Structures & Algorithms, and Full-Stack Web Development. Completed a Major Certification in Artificial Intelligence from IIT Ropar (15 ABC Credits) and currently contributing to an AI research publication. Passionate about building scalable software and intelligent systems that solve real-world problems.
 
 ---
 
-# 🚀 Tech Stack
+## Technical Skills
 
-### Programming Languages
+**Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript"/>
-</p>
+`C++` `C` `Python` `Java` `JavaScript`
 
-### Web Development
+**Web Development**
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,mongodb"/>
-</p>
+`HTML` `CSS` `Bootstrap` `React` `Node.js` `Express.js`
 
-### Artificial Intelligence
+**Artificial Intelligence**
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
+`Machine Learning` `Deep Learning` `NLP` `TensorFlow` `PyTorch`
 
-### Database & Tools
+**Databases**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma"/>
-</p>
+`MySQL` `MongoDB`
+
+**Tools**
+
+`Git` `GitHub` `VS Code` `Figma`
 
 ---
 
-# 📌 Featured Projects
+## Featured Projects
 
-### 🧠 Hallucination Detection System
-AI-powered system for detecting hallucinations in Large Language Models using Machine Learning and NLP.
+### Hallucination Detection System
+AI-based system for detecting hallucinations in Large Language Models using Machine Learning and Natural Language Processing.
 
-### ⚖️ Nidhi Sharma Law Chambers
-Professional and responsive website developed for a law chamber.
+### Law Chambers Website
+Designed and developed a responsive professional website for Nidhi Sharma Law Chambers.
 
-### 🏥 Dr. Amit Hospital
-Responsive healthcare website with a modern and user-friendly interface.
+### Dr. Amit Hospital Website
+Developed a modern healthcare website with responsive design and intuitive user experience.
 
-### 📝 Quiz Management System
-Developed  for efficient quiz management.
-
----
-
-# 🌱 Currently Learning
-
-- Large Language Models (LLMs)
-- Generative AI
-- Deep Learning
-- Advanced Data Structures & Algorithms
-- System Design
+### Quiz Management System
+Developed  for efficient quiz creation and evaluation.
 
 ---
 
-# 📜 Certifications
+## Research
 
-🏅 **Major Certification in Artificial Intelligence**
-
-**Indian Institute of Technology (IIT) Ropar**
-
-**15 Academic Bank of Credits (ABC Credits)**
+- Ongoing AI Research Publication
+- Exploring Large Language Models, Explainable AI, and Generative AI
 
 ---
 
-# 🌐 Connect With Me
+## Certification
 
-<p>
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/samriti-sharma-b3a976294/)">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+**Major Certification in Artificial Intelligence**
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-</p>
+Indian Institute of Technology Ropar
+
+15 Academic Bank of Credits (ABC)
 
 ---
 
-<div align="center">
-
-### 💡 *"Learning today. Building for tomorrow."*
-
-⭐ Thanks for visiting my profile!
-
-</div>
+*"Always learning. Always building."*
