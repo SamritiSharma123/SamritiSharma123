@@ -1,43 +1,39 @@
 <h1 align="center">Hi 👋, I'm Samriti Sharma</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | AI & Machine Learning Enthusiast | Full-Stack Web Developer
+Computer Science Engineering Student • AI & Machine Learning Enthusiast • Full-Stack Web Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Full+Stack+Web+Developer;Data+Structures+%26+Algorithms;AI+Research+Publication+In+Progress;Always+Learning+Something+New!" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Full+Stack+Web+Development;Data+Structures+%26+Algorithms;AI+Research+Enthusiast" />
 </p>
 
 ---
 
 # 💜 About Me
 
-🎓 BE Computer Science Engineering Student
+🎓 **BE Computer Science Engineering Student**
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+🤖 Passionate about **Artificial Intelligence, Machine Learning & NLP**
 
 💻 Full-Stack Web Developer
 
-📚 Strong foundation in Data Structures & Algorithms
+📚 Strong in **Data Structures & Algorithms**
 
-🎖️ Completed **Major Certification in Artificial Intelligence** from **IIT Ropar** (15 ABC Credits)
+🎖️ Completed **Major Certification in Artificial Intelligence** from **IIT Ropar** *(15 ABC Credits)*
 
 📄 Currently working on an **AI Research Publication**
 
-🚀 Passionate about solving real-world problems through innovative technology.
+🚀 Passionate about building intelligent systems that solve real-world problems.
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,mysql"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript"/>
 </p>
 
 ### Web Development
@@ -46,16 +42,16 @@ Computer Science Engineering Student | AI & Machine Learning Enthusiast | Full-S
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,mongodb"/>
 </p>
 
-### AI / ML
+### Artificial Intelligence
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
-### Tools
+### Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma"/>
 </p>
 
 ---
@@ -63,69 +59,42 @@ Computer Science Engineering Student | AI & Machine Learning Enthusiast | Full-S
 # 📌 Featured Projects
 
 ### 🧠 Hallucination Detection System
-> AI-powered hallucination detection system for Large Language Models using Machine Learning and NLP.
+AI-powered system for detecting hallucinations in Large Language Models using Machine Learning and NLP.
 
-### ⚖️ Nidhi Sharma Law Chambers Website
-> Designed and developed a professional and responsive website for a law chamber.
+### ⚖️ Nidhi Sharma Law Chambers
+Professional and responsive website developed for a law chamber.
 
-### 🏥 Dr. Amit Hospital Website
-> Developed a responsive hospital website with modern UI and enhanced user experience.
+### 🏥 Dr. Amit Hospital
+Responsive healthcare website with a modern and user-friendly interface.
 
 ### 📝 Quiz Management System
-> Developed under the guidance of **Dr. Sarabjeet Singh** with secure quiz management and automated evaluation.
+Developed under the guidance of **Dr. Sarabjeet Singh** for efficient quiz management.
 
 ---
 
 # 🌱 Currently Learning
 
-- Generative AI
 - Large Language Models (LLMs)
+- Generative AI
 - Deep Learning
-- System Design
 - Advanced Data Structures & Algorithms
+- System Design
 
 ---
 
-# 📊 GitHub Statistics
+# 📜 Certifications
 
-<p align="center">
+🏅 **Major Certification in Artificial Intelligence**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+**Indian Institute of Technology (IIT) Ropar**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10&no-frame=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
+**15 Academic Bank of Credits (ABC Credits)**
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-
+<p>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -133,13 +102,14 @@ Computer Science Engineering Student | AI & Machine Learning Enthusiast | Full-S
 <a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
 </p>
 
 ---
 
-<h3 align="center">
+<div align="center">
 
-💜 *"Code. Learn. Research. Innovate."* 💜
+### 💡 *"Learning today. Building for tomorrow."*
 
-</h3>
+⭐ Thanks for visiting my profile!
+
+</div>
