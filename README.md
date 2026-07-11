@@ -74,8 +74,7 @@ Computer Science Engineering student passionate about **Artificial Intelligence*
 - **Hospital Management Website**
   - Responsive healthcare platform with modern UI/UX.
 
-- **Quiz Management System**
-  - Developed under the guidance of **Dr. Sarabjeet Singh**.
+
 
 ---
 
