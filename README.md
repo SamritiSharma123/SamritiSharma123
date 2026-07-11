@@ -95,7 +95,7 @@ Developed  for efficient quiz management.
 # 🌐 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/samriti-sharma-b3a976294/)">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
