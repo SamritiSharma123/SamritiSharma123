@@ -68,7 +68,7 @@ Professional and responsive website developed for a law chamber.
 Responsive healthcare website with a modern and user-friendly interface.
 
 ### 📝 Quiz Management System
-Developed under the guidance of **Dr. Sarabjeet Singh** for efficient quiz management.
+Developed  for efficient quiz management.
 
 ---
 
